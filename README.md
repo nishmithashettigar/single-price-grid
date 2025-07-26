@@ -15,3 +15,7 @@ A simple and responsive Single Price Grid Component built with **HTML & CSS**.
 - Responsive 2-Column Layout
 - Hover Effects on Button
 - Clean Design using CSS Grid
+
+
+<img width="1029" height="701" alt="image" src="https://github.com/user-attachments/assets/62333fc1-cc20-4ffc-8c68-3a7424147192" />
+
