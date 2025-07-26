@@ -17,5 +17,6 @@ A simple and responsive Single Price Grid Component built with **HTML & CSS**.
 - Clean Design using CSS Grid
 
 
-<img width="1029" height="701" alt="image" src="https://github.com/user-attachments/assets/62333fc1-cc20-4ffc-8c68-3a7424147192" />
+<img width="1479" height="723" alt="image" src="https://github.com/user-attachments/assets/b562aeed-d078-4420-897e-32fc668cf155" />
+
 
