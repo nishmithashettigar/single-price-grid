@@ -1,4 +1,3 @@
-/* Base Reset */
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +17,7 @@ body {
 h1, h2 {
     font-family: 'Montserrat', sans-serif;
 }
-/* Card Container */
+
 .card {
     display: grid;
     grid-template-columns: 1fr;
@@ -31,12 +30,10 @@ h1, h2 {
     transition: transform 0.3s ease;
 }
 
-/* Card Hover Lift */
 .card:hover {
     transform: translateY(-5px);
 }
 
-/* Top Section */
 .card_intro {
     background-color: #2bb3b1;
     color: white;
@@ -60,7 +57,6 @@ h1, h2 {
     opacity: 0.9;
 }
 
-/* Middle Section */
 .card_pricing {
     background-color: #4abebd;
     color: white;
@@ -111,7 +107,6 @@ h1, h2 {
     transform: scale(1.02);
 }
 
-/* Bottom Section */
 .card_features {
     background-color: #e0e8ff;
     padding: 2rem;
@@ -134,7 +129,6 @@ h1, h2 {
     padding-left: 1.2rem;
 }
 
-/* Bullet Icon */
 .features_list li::before {
     content: '✓';
     color: #2bb3b1;
@@ -142,7 +136,6 @@ h1, h2 {
     left: 0;
 }
 
-/* Responsive Grid Layout */
 @media (min-width: 768px) {
     .card {
         grid-template-columns: 1fr 1fr;
