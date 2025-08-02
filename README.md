@@ -1,6 +1,5 @@
 # Single Price Grid Component 
 
-## 🔗 Live Demo 
 [View Project](https://nishmithashettigar.github.io/single-price-grid/)
 
 A simple and responsive Single Price Grid Component built with **HTML & CSS**.
@@ -21,6 +20,7 @@ A simple and responsive Single Price Grid Component built with **HTML & CSS**.
 
 
 <img width="1479" height="723" alt="image" src="https://github.com/user-attachments/assets/b562aeed-d078-4420-897e-32fc668cf155" />
+
 
 
 
